@@ -1,0 +1,13 @@
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\bin\Debug\Exercise01102020.HomeWork.App.exe.config
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\bin\Debug\Exercise01102020.HomeWork.App.exe
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\bin\Debug\Exercise01102020.HomeWork.App.pdb
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\bin\Debug\Exercise01102020.Common.dll
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\bin\Debug\Exercise01102020.Common.pdb
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.csprojAssemblyReference.cache
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.Form1.resources
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.Properties.Resources.resources
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.csproj.GenerateResource.cache
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.csproj.CoreCompileInputs.cache
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.csproj.CopyComplete
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.exe
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.pdb

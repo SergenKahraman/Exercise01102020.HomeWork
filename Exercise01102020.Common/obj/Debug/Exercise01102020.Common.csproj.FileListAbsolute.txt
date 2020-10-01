@@ -1,0 +1,6 @@
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.Common\bin\Debug\Exercise01102020.Common.dll
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.Common\bin\Debug\Exercise01102020.Common.pdb
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.Common\obj\Debug\Exercise01102020.Common.csprojAssemblyReference.cache
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.Common\obj\Debug\Exercise01102020.Common.csproj.CoreCompileInputs.cache
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.Common\obj\Debug\Exercise01102020.Common.dll
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.Common\obj\Debug\Exercise01102020.Common.pdb
