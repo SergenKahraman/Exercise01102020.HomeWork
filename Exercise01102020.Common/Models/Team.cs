@@ -24,8 +24,13 @@ namespace Exercise01102020.Common.Models
                 {
                     return;
                 }
+                
             }
             this.Coach = coach;
+            if (coach.Team != null)
+            {
+                coach.Team.Coach = null;
+            }
             coach.Team = this;
         }
 
@@ -39,7 +44,12 @@ namespace Exercise01102020.Common.Models
                     return;
                 }
             }
+            
             this.Manager = manager;
+            if (manager.Team != null)
+            {
+                manager.Team.Coach = null;
+            }
             manager.Team = this;
         }
 

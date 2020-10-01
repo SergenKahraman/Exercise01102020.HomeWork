@@ -48,7 +48,7 @@ namespace Exercise01102020.HomeWork.App
             M2.AddTeam(T2);
 
             P1.AddTeam(T2);
-            
+            T3.AssignCoach(C2);
 
 
 

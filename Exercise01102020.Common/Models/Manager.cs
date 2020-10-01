@@ -20,6 +20,10 @@ namespace Exercise01102020.Common.Models
                 }
             }
             this.Team = Team;
+            if (Team.Manager != null)
+            {
+                Team.Manager.Team = null;
+            }
             Team.Manager = this;
         }
     }
