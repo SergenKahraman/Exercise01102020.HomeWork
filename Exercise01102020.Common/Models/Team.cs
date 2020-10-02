@@ -24,6 +24,10 @@ namespace Exercise01102020.Common.Models
                 {
                     return;
                 }
+                else
+                {
+                    this.Coach.Team = null;
+                }
                 
             }
             this.Coach = coach;
@@ -43,12 +47,16 @@ namespace Exercise01102020.Common.Models
                 {
                     return;
                 }
+                else
+                {
+                    this.Manager.Team = null;
+                }
             }
             
             this.Manager = manager;
             if (manager.Team != null)
             {
-                manager.Team.Coach = null;
+                manager.Team.Manager = null;
             }
             manager.Team = this;
         }
@@ -57,9 +65,20 @@ namespace Exercise01102020.Common.Models
         {
             foreach (var P in players)
             {
+                if (P.Team != null)
+                {
+                    P.Team.Players.Remove(P);
+                }
                 Players.Add(P);
                 P.Team = this;
             }
+        }
+
+
+
+        public override string ToString()
+        {
+            return TeamName;
         }
     }
 }

@@ -11,3 +11,5 @@ C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020
 C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.csproj.CopyComplete
 C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.exe
 C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.pdb
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.frmAdd.resources
+C:\Users\SERGEN\Desktop\BilgeAdam\Dersler\Ders11(26-27.09.2020)\Exercise01102020.HomeWork\Exercise01102020.HomeWork.App\obj\Debug\Exercise01102020.HomeWork.App.frmAddNew.resources

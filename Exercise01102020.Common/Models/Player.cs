@@ -29,5 +29,13 @@ namespace Exercise01102020.Common.Models
             this.Team = Team;
             Team.Players.Add(this);
         }
+
+
+
+
+        public override string ToString()
+        {
+            return FullName;
+        }
     }
 }

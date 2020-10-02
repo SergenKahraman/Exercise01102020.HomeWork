@@ -26,5 +26,13 @@ namespace Exercise01102020.Common.Models
             }
             Team.Coach = this;
         }
+
+
+
+        public override string ToString()
+        {
+            return FullName;
+        }
+
     }
 }
